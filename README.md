@@ -13,6 +13,6 @@ It will :
 - Select some other filters 
 - Save the page
 - Parse the pages
-- Extract the totol ammount of products for each condition (New with tags, Like New, Good, Fair)
+- Extract the total ammount of products for each condition (New with tags, Like New, Good, Fair)
 - Put the results in a Data Frame
-- Export the Data Frame as .csv to get a backup for comparison
+- Export the Data Frame as quantification(date).csv to get a backup for comparison
