@@ -1,9 +1,7 @@
 # zara-quantification
 Quantifies products on the Zara Pre-Owned website
 
-### Just run the main.py file 
-
-It will :
+### main.py will :
 
 - Create a new "data" folder
 - Get a chrome driver
