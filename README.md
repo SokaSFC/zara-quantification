@@ -14,3 +14,12 @@ Quantifies products on the Zara Pre-Owned website
 - Extract the total ammount of products for each condition (New with tags, Like New, Good, Fair)
 - Put the results in a Data Frame
 - Export the Data Frame as quantification(date).csv to get a backup for comparison
+
+VPN Locations allowed :
+
+- Netherlands
+
+VPN Locations rejected :
+
+- Japan
+  
